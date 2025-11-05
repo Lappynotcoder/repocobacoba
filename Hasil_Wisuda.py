@@ -155,4 +155,3 @@ except Exception as e:
 
 print("bagus")
 print("haiii")
-print("jaran")
