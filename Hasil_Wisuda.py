@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # ===============================
 # 1️⃣ SETUP & IMPORT DATA
 # ===============================
-os.chdir("C:/Users/Lab. TI_GKB/Desktop")
+
 file_path = "Data_Wisudawan.xlsx"
 output_file = "rekap_wisuda_final.xlsx"
 
